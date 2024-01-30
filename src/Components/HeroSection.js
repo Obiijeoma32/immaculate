@@ -198,7 +198,7 @@ function HeroSection() {
           </h1>
           <p className="text-neutral-400 sm:w-[400px] text-[18px] font-normal font-montserrat leading-[35px] tracking-tight">Transforming Data into Actionable Insights. Let's Drive Decision-Making Together.</p>
           {/* <button className="w-[230px] h-12 px-[30px] py-2.5 bg-emerald-400 rounded-[10px] justify-center items-center gap-2.5 inline-flex text-center text-white text-2xl font-medium font-roboto tracking-tight">Explore Now</button> */}
-          <img className="mt-[0px]" src={chi} alt="Immaculate Obi" />
+          <img className="mt-[-50px]" src={chi} alt="Immaculate Obi" />
         </div>
       </div>
     </>

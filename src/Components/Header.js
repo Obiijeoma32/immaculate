@@ -26,6 +26,7 @@ function Header() {
           <img src={logo} alt="immaculate" />
           <div className="text-zinc-800 flex justify-between items-center gap-[60px]  text-lg font-semibold font-montserrat tracking-tight">
             <h3>Skills</h3>
+
             <h3>Experience</h3>
             <h3>Education</h3>
             <h3>Contact</h3>

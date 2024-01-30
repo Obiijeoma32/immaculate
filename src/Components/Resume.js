@@ -6,7 +6,7 @@ function Resume() {
     <>
       {/* BIG SCREENS */}
       <div className=" 100:hidden xl:flex w-full  p-[50px] flex   justify-center items-center ">
-        <div className="gap-[69.5px] xl:w-full flex justify-between items-center 2xl:max-w-[1300px]">
+        <div className="gap-[69.5px] xl:w-[1200px] flex justify-between items-center 2xl:max-w-[1300px]">
           <div className="grid gap-[30px]  ">
             <div className="text-zinc-800 w-[270px] text-5xl font-semibold font-roboto tracking-wide border-b-[5px] pb-[15px]  border-[#007BFF]">
               <h3>My Resume</h3>

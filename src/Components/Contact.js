@@ -82,10 +82,14 @@ function Contact() {
           </div>
           <div className="w-[512px] h-[452px] px-14 py-[34px] bg-blue-600 bg-opacity-10 rounded-[20px] flex-col justify-start items-center gap-[40px] inline-flex">
             <h4 class="text-zinc-800 text-2xl font-medium  font-roboto tracking-tight">Let’s Connect</h4>
-            <input type="text" placeholder="Full Name" className=" outline-none w-[400px] h-[42px] pl-[21px] pr-[296px] py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" />
-            <input type="email" placeholder="Email" className=" outline-none w-[400px] h-[42px] pl-[21px] pr-[296px] py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" />
-            <textarea placeholder="Message" className=" outline-none w-[400px] h-[82px] pl-[21px] pr-[296px] py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" />
-            <button className="w-[178px] h-12 px-[30px] py-2.5 bg-emerald-400 rounded-[10px] justify-center items-center gap-2.5 inline-flex text-center text-white text-2xl font-medium font-roboto tracking-tight">Submit</button>
+            <form className="flex flex-col justify-between items-center gap-[30px] " action="https://formsubmit.co/obichinedu836@gmail.com" method="POST">
+              <input type="text" placeholder="Full Name" className=" outline-none w-[400px] h-[42px] px-[21px] py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" name="name" required />
+              <input type="email" placeholder="Email" className=" outline-none w-[400px] h-[42px] px-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" name="email" required />
+              <textarea placeholder="Message" className=" outline-none w-[400px] h-[82px] px-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" name="message" required />
+              <button type="submit" className="w-[178px] h-12 px-[30px] py-2.5 bg-emerald-400 rounded-[10px] justify-center items-center gap-2.5 inline-flex text-center text-white text-2xl font-medium font-roboto tracking-tight">
+                Submit
+              </button>
+            </form>
           </div>
         </div>
       </div>
@@ -168,10 +172,14 @@ function Contact() {
           </div>
           <div className="w-full h-[452px] px-14 py-[34px] bg-blue-600 bg-opacity-10 rounded-[20px] flex-col justify-start items-center gap-[40px] flex">
             <h4 class="text-zinc-800 text-2xl font-medium  font-roboto tracking-tight">Let’s Connect</h4>
-            <input type="text" placeholder="Full Name" className=" flex-grow outline-none w-[280px] h-[42px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center" />
-            <input type="email" placeholder="Email" className="flex-grow outline-none w-[280px] h-[42px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center " />
-            <textarea placeholder="Message" className=" flex-grow outline-none w-[280px] h-[82px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center " />
-            <button className="w-[178px] h-12 px-[30px] bg-emerald-400 rounded-[10px] justify-center items-center flex text-center text-white text-[16px] font-medium font-roboto tracking-tight">Submit</button>
+            <form className="flex flex-col justify-between items-center gap-[20px]" action="https://formsubmit.co/obichinedu836@gmail.com" method="POST">
+              <input type="text" placeholder="Full Name" className=" flex-grow outline-none w-[280px] h-[42px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center" name="name" required />
+              <input type="email" placeholder="Email" className="flex-grow outline-none w-[280px] h-[42px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center " name="email" required />
+              <textarea placeholder="Message" className=" flex-grow outline-none w-[280px] h-[82px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center " name="message" required />
+              <button type="submit" className="w-[178px] h-12 px-[30px] bg-emerald-400 rounded-[10px] justify-center items-center flex text-center text-white text-[16px] font-medium font-roboto tracking-tight">
+                Submit
+              </button>
+            </form>
           </div>
         </div>
       </div>

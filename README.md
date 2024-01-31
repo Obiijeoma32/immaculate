@@ -1,4 +1,4 @@
-##Immaculate's Data Analyst Portfolio
+<h1>Immaculate's Data Analyst Portfolio</h1>
 
 Welcome to my Data Analyst portfolio! This repository showcases my skills, projects, and experiences in the field of data analysis. Feel free to explore the various sections to get an insight into my capabilities.
 

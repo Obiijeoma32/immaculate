@@ -159,7 +159,7 @@ This coffee shop sales Excel dashboard appears to be a valuable tool for coffee 
 
 <h3>Contact Information</h3>
 
-<a href='https://linkedin.com/in/immaculate-obi>Linkedin</a> 
+<a href='https://linkedin.com/in/immaculate-obi'>Linkedin</a> 
 <a href="mailto:Obichinedu836@gmail.com'>Email</a>
 
 <p>Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!

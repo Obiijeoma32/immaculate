@@ -32,7 +32,7 @@ function Skills() {
             <p className=" text-center text-zinc-600 text-lg font-normal font-montserrat leading-[35px] tracking-tight">Proficient in SQL for effective data querying and manipulation, enhancing data analysis capabilities.</p>
           </div>
           <div className="w-[300px] flex-grow h-[300px] p-10 gap-[20px] bg-blue-600 bg-opacity-20 rounded-[20px] flex-col justify-start items-center flex">
-            <h4 className="text-zinc-800 text-[28px] font-medium font-roboto tracking-tight">Tableu</h4>
+            <h4 className="text-zinc-800 text-[28px] font-medium font-roboto tracking-tight">Tableau</h4>
             <p className=" text-center text-zinc-600 text-lg font-normal font-montserrat leading-[35px] tracking-tight">Expert in Tableau for creating dynamic and interactive visualizations, translating complex data into insightful stories.</p>
           </div>
           <div className="w-[300px] flex-grow h-[300px] p-10 gap-[20px] bg-blue-600 bg-opacity-20 rounded-[20px] flex-col justify-start items-center flex">
@@ -72,7 +72,7 @@ function Skills() {
             <p className=" text-center text-zinc-600 text-lg font-normal font-montserrat leading-[35px] tracking-tight">Proficient in SQL for effective data querying and manipulation, enhancing data analysis capabilities.</p>
           </div>
           <div className="w-[300px] flex-grow h-[300px] p-10 gap-[20px] bg-blue-600 bg-opacity-20 rounded-[20px] flex-col justify-start items-center flex">
-            <h4 className="text-zinc-800 text-[28px] font-medium font-roboto tracking-tight">Tableu</h4>
+            <h4 className="text-zinc-800 text-[28px] font-medium font-roboto tracking-tight">Tableau</h4>
             <p className=" text-center text-zinc-600 text-lg font-normal font-montserrat leading-[35px] tracking-tight">Expert in Tableau for creating dynamic and interactive visualizations, translating complex data into insightful stories.</p>
           </div>
           <div className="w-[300px] flex-grow h-[300px] p-10 gap-[20px] bg-blue-600 bg-opacity-20 rounded-[20px] flex-col justify-start items-center flex">

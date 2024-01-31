@@ -2,14 +2,14 @@
 
 Welcome to my Data Analyst portfolio! This repository showcases my skills, projects, and experiences in the field of data analysis. Feel free to explore the various sections to get an insight into my capabilities.
 
-<ul>Table of Contents</ul>
+<h2>Table of Contents</h2>
 
-<li>About Me</li> 
+<ol><li>About Me</li> 
 <li>Skills</li> 
 <li>Projects</li> 
 <li>Education</li>
 <li>Work Experience</li>
-<li>Contact Information</li>
+<li>Contact Information</li></ol>
 
 <h3>About Me</h3>
 
@@ -160,7 +160,7 @@ This coffee shop sales Excel dashboard appears to be a valuable tool for coffee 
 <h3>Contact Information</h3>
 
 <a href='https://linkedin.com/in/immaculate-obi'>Linkedin</a> 
-<a href="mailto:Obichinedu836@gmail.com'>Email</a>
+<a href="mailto:Obichinedu836@gmail.com">Email</a>
 
 <p>Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 

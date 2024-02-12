@@ -70,7 +70,7 @@ function Header({ contact, skill, resume, scrollToSection, heroSection, project,
           <svg onClick={() => setHamburger(false)} className=" float-end mt-[37px]  " width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M19 5L5 19M5 5L19 19" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
           </svg>
-          <div className="text-white flex flex-col mt-[250px] justify-between items-center gap-[60px]  text-lg font-semibold font-montserrat tracking-tight">
+          <div className="text-white flex flex-col mt-[150px] justify-between items-center gap-[60px]  text-lg font-semibold font-montserrat tracking-tight">
             <h3
               className=" cursor-pointer "
               onClick={() => {

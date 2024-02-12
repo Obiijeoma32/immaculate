@@ -81,7 +81,7 @@ function Contact() {
             </div>
           </div>
           <div className="w-[512px] h-[452px] px-14 py-[34px] bg-blue-600 bg-opacity-10 rounded-[20px] flex-col justify-start items-center gap-[40px] inline-flex">
-            <h4 class="text-zinc-800 text-2xl font-medium  font-roboto tracking-tight">Let’s Connect</h4>
+            <h4 className="text-zinc-800 text-2xl font-medium  font-roboto tracking-tight">Let’s Connect</h4>
             <form className="flex flex-col justify-between items-center gap-[30px] " action="https://formsubmit.co/obichinedu836@gmail.com" method="POST">
               <input type="text" placeholder="Full Name" className=" outline-none w-[400px] h-[42px] px-[21px] py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" name="name" required />
               <input type="email" placeholder="Email" className=" outline-none w-[400px] h-[42px] px-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center inline-flex" name="email" required />
@@ -171,7 +171,7 @@ function Contact() {
             </a>
           </div>
           <div className="w-full h-[452px] px-14 py-[34px] bg-blue-600 bg-opacity-10 rounded-[20px] flex-col justify-start items-center gap-[40px] flex">
-            <h4 class="text-zinc-800 text-2xl font-medium  font-roboto tracking-tight">Let’s Connect</h4>
+            <h4 className="text-zinc-800 text-2xl font-medium  font-roboto tracking-tight">Let’s Connect</h4>
             <form className="flex flex-col justify-between items-center gap-[20px]" action="https://formsubmit.co/obichinedu836@gmail.com" method="POST">
               <input type="text" placeholder="Full Name" className=" flex-grow outline-none w-[280px] h-[42px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center" name="name" required />
               <input type="email" placeholder="Email" className="flex-grow outline-none w-[280px] h-[42px] pl-[21px]  py-[11px] bg-gray-50 rounded-[20px] justify-start items-center " name="email" required />
